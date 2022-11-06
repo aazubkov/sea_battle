@@ -1,0 +1,182 @@
+lang
+Выбран русский язык
+
+English has been chosen
+
+
+user_board
+Доска игрока:
+
+Player's board:
+
+
+comp_board
+Доска компьютера:
+
+Machine's board:
+
+
+user_turn
+Ходит пользователь!
+
+Player's turn!
+
+
+comp_turn
+Ходит компьютер!
+
+Machine's turn!
+
+
+user_win
+Пользователь выиграл!
+
+Player won!
+
+
+comp_win
+Компьютер выиграл!
+
+Machine won!
+
+
+mimo_doski
+Вы пытаетесь выстрелить за доску!
+
+You've missed the board!
+
+
+used_cell
+Вы уже стреляли в эту клетку..
+
+You've already hit this cell..
+
+
+comp_shoot
+Ход компьютера, ща куда-то бахнет..
+
+Machine is shooting! Prepare to die..
+
+
+user_shoot
+Ваш ход, куда стреляем?
+
+Your move. What is today's target?
+
+
+enter_coord
+Введите 2 координаты!
+
+Enter 2 coordinates
+
+
+enter_digs
+Введите числа!
+
+Enter numbers!
+
+
+ship_dead
+Корабль уничтожен!
+
+Ship has been destroyed!
+
+
+ship_hit
+Корабль ранен! Но еще на плаву.
+
+Ship has been hit! But still alive.
+
+
+shot_miss
+Досадный промах(
+
+Missed the target(
+
+
+board_size
+Введите размер доски, варианты:
+
+Enter Size of the Board, options are:
+
+
+print_score
+Количество ходов до подебды
+
+Maximum turns to 
+
+
+print_bit
+Выберите тип расстановки кораблей на доске. R - автоматический, M - ручной
+
+If you want to place ships on board Randomly - input R, if Manually - input M
+
+
+place_ships
+Нужно расставить на доске следующие корабли
+
+You have to place following ships
+
+
+manual_rules
+Введите координаты XY носа корабля и его бинарную ориентацию: H - горизонтальная, V - вертикальная.
+	 Если видите, что корабли уже не расставляются на доске, введите XXX, чтобы начать сей тяжкий труд заново.
+	 Формат ввода данных для кораблей 4, 3, 2 класса : X Y H/V. Для корабля 1 класса: X Y.
+	 Сейчас поставьте следующий корабль:
+
+Input ship bow in XY and orientation H - horizontal, V - vertical. '
+	 Input XXX, if Board failed to be completed to start again.'
+	 Input format for 4, 3, 2 class ships: X Y H/V. For 1 class ship: X Y.
+	 Now place the following ship:
+
+
+
+failed_manual_ship
+Некорректные данные. Правильный формат: X Y H/V.
+
+Not correct input. Input format: X Y H/V.
+
+
+
+wrong_ship_pos
+Корабль не может быть так расположен. Давай-ка еще раз!
+
+Ship couldn't be placed in this position. Try again.
+
+
+mnl_board_again
+Нучтош.. Начнем с начала
+
+Well.. Let's start again
+
+
+wanna_play
+Еще разок сыграем? Y - да, в этот раз я буду неудержим. N - не, с меня хватит, это не комп, а Скайнет.
+
+Wanna play again? Y - yes, this time I will win! N - no, it's enough, AI is more clever.
+
+
+thanx_for_play
+Благодарю за игру, было неплохо! Увидимся...
+
+Thanx for playing Morskoy Boy! See you soon...
+
+greet
+	-------------------
+	  Приветсвуем вас  
+	      в игре       
+	   морской бой    
+	-------------------
+	формат ввода: x y 
+	x - номер строки  
+	y - номер столбца
+
+	-------------------
+	 Hello, everyone!   
+	      it is 
+	the Sea Battle game    
+	-------------------
+	input format: x y 
+	x - row number  
+	y - column number
+
